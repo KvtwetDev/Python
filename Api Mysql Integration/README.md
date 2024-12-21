@@ -33,6 +33,9 @@ Vídeo de Demonstração
 Para ver uma demonstração do funcionamento do projeto, assista ao vídeo abaixo:
 
 🔴 Demonstração do Funcionamento do Projeto
+
+   https://youtu.be/1GoSzqR4Rz8
+
 Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o LICENSE para mais detalhes.
